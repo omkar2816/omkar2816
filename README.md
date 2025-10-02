@@ -2,14 +2,14 @@
 <h2 align="center">Always learning, always building. Let’s turn ideas into impact.</h2>
 
 <div align="left">
-  <a href="https://github.com/omkar2816">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/omkar-korgaonkar-81629b2b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/omkar2802/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=white"/>
+  </a>
   <a href="mailto:omkarkorgaonkar376@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <span align="right">
     <img src="https://komarev.com/ghpvc/?username=omkar2816&label=Profile%20Views&color=blue&style=flat"/>
@@ -31,7 +31,7 @@ I’m always learning new technologies and looking for opportunities to grow as 
 
 **Languages**  
 <p>
-  <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -76,7 +76,8 @@ I’m always learning new technologies and looking for opportunities to grow as 
 ---
 
 ## Contact Me
-
+- **Email:** [omkarkorgaonkar376@gmail.com](mailto:omkarkorgaonkar376@gmail.com)  
+- **LinkedIn:** [Omkar Korgaonkar](https://www.linkedin.com/in/omkar-korgaonkar-81629b2b8/)
 
 ---
 
