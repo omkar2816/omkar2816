@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Omkar Korgaonkar</h1>
 <h2 align="center">Always learning, always building. Let’s turn ideas into impact.</h2>
 
-<div>
+<p>
+  <img align="right" src="https://komarev.com/ghpvc/?username=omkar2816&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+
   <a href="https://www.linkedin.com/in/omkar-korgaonkar-81629b2b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -11,10 +13,7 @@
   <a href="mailto:omkarkorgaonkar376@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <span align="right">
-    <img src="https://komarev.com/ghpvc/?username=omkar2816&label=Profile%20Views&color=blue&style=flat"/>
-  </span>
-</div>
+</p>
 
 ## About Me  
 I’m a final-year Computer Engineering student with skills in **MERN Stack, Python, Java, and AI/ML RAG systems**. I enjoy building applications that are scalable, user-friendly, and solve real-world problems.
@@ -69,8 +68,8 @@ I’m always learning new technologies and looking for opportunities to grow as 
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar2816&show_icons=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2816&layout=compact&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar2816&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=00FF00" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2816&layout=compact&bg_color=00000000&text_color=ffffff&icon_color=00FF00" height="165"/>
 </p>
 
 ---
