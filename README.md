@@ -75,6 +75,7 @@ I’m always learning new technologies and looking for opportunities to grow as 
 ---
 
 ## Contact Me
+Feel free to reach out to me for collaborations, questions and Opportunities!
 - **Email:** [omkarkorgaonkar376@gmail.com](mailto:omkarkorgaonkar376@gmail.com)  
 - **LinkedIn:** [Omkar Korgaonkar](https://www.linkedin.com/in/omkar-korgaonkar-81629b2b8/)
 
