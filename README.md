@@ -69,8 +69,8 @@ I’m always learning new technologies and looking for opportunities to grow as 
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar2816&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2816&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar2816&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar2816&layout=compact&theme=transparent" height="165"/>
 </p>
 
 ---
