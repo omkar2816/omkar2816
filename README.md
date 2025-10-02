@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Omkar Korgaonkar</h1>
-<h2 align="center">Turning Ideas into Scalable & Smart Applications</h2>
+<h2 align="center">Always learning, always building. Let’s turn ideas into impact.</h2>
 
 <div align="left">
   <a href="https://github.com/omkar2816">
@@ -11,7 +11,7 @@
   <a href="mailto:omkarkorgaonkar376@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <span align="right" style="float:right;">
+  <span align="right">
     <img src="https://komarev.com/ghpvc/?username=omkar2816&label=Profile%20Views&color=blue&style=flat"/>
   </span>
 </div>
