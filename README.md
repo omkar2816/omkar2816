@@ -1,24 +1,23 @@
+<h1 align="center">Hi, I'm Omkar Korgaonkar</h1>
+<h2 align="center">Turning Ideas into Scalable & Smart Applications</h2>
 <div align="right">
   
 ![](https://komarev.com/ghpvc/?username=omkar2816&label=Profile%20Views&color=blue&style=flat)
 
 </div>
+---
 
-<h1 align="center">👋 Hi, I'm Omkar Korgaonkar</h1>
-<h2 align="center">💡 Turning Ideas into Scalable & Smart Applications</h2>
+## About Me  
+I’m a final-year Computer Engineering student with skills in **MERN Stack, Python, Java, and AI/ML RAG systems**. I enjoy building applications that are scalable, user-friendly, and solve real-world problems.
+I have experience working on:
+- Full-stack web development (React, Node.js, Tailwind, Supabase)
+- AI/ML projects with RAG systems and APIs
+- Backend engineering with secure authentication and databases
+I’m always learning new technologies and looking for opportunities to grow as a **software engineer**.
 
 ---
 
-## 📝 About Me  
-🎓 Final Year **Computer Engineering Student** (2022–2026)  
-💻 Skilled in **MERN, Python, Java, AI/ML RAG Systems**  
-🚀 Experienced in building **scalable, user-friendly applications**  
-🔍 Interested in **AI-driven systems, backend engineering & full-stack development**  
-📈 Always learning & seeking opportunities to grow as a **Software Engineer**  
-
----
-
-## 🛠 Tech Stack  
+## Tech Stack  
 
 **Languages**  
 <p>
@@ -57,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar2816&show_icons=true&theme=radical" height="165"/>
@@ -66,7 +65,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <p>
   <a href="https://github.com/omkar2816">
